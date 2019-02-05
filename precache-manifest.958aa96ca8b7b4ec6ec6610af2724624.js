@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/park-it/static/css/main.e8913911.chunk.css"
   },
   {
-    "revision": "7049f0af7ff2a2bb3af1f7c1a344ebe3",
+    "revision": "f975de722d452af3e4fc2b1b5ce0fbb1",
     "url": "/park-it/index.html"
   }
 ];
